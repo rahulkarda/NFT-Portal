@@ -168,6 +168,11 @@
        word-break: break-word;
     width: 80%;
   }
+  .sub-text{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+  }
   
   
 }
